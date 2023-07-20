@@ -1,0 +1,48 @@
+div{
+    
+}
+#main{
+    
+    width: 500px;
+    height: 520px;
+    border: 1px solid;
+}
+#result{
+    height:100px;
+
+}
+/* input{
+    width: 496px !important;
+    
+} */
+#buttons_row_1 , #buttons_row_2 , #buttons_row_3 , #buttons_row_4, #buttons_row_5{
+    height: 80px;
+    display: flex;
+    justify-content: space-around;
+    
+}
+#memory{
+    display:flex;
+    justify-content: flex-end;
+    
+    
+}
+button{
+    width:125px;
+}
+#screen{
+    width:496px;
+    height: 120px;
+    border: none;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 8%;
+}
+/* #buttons{
+    display: flex;
+    display: block;
+    justify-content: space-around;
+} */
